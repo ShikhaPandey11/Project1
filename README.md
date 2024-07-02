@@ -1,4 +1,4 @@
 # Project1
-Quiz website
+Demo Project
 <br>
-Author: Shikha 
+Author: Shikha Pandey
